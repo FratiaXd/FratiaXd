@@ -1,4 +1,7 @@
-### Zdarova  
+### **Zdarova**
+
+I'm currently studying 1st year Computer Science
+
 
 <!--
 **FratiaXd/FratiaXd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
