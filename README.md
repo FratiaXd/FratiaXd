@@ -1,6 +1,6 @@
 ### **Zdarova**
 
-I'm currently studying 1st year Computer Science
+I'm a 1st year Computer Science student
 
 
 <!--
