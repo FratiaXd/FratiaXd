@@ -1,6 +1,4 @@
-### **Zdarova**
-
-I'm a 1st year Computer Science student
+### **Hi there**
 
 
 <!--
