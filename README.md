@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 My stats
 -->
-[![FratiaXd's GitHub stats](https://github-readme-stats.vercel.app/api?username=FratiaXd&show_icons=true&theme=omni&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FratiaXd&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![FratiaXd's GitHub stats](https://github-readme-stats.vercel.app/api?username=FratiaXd&show_icons=true&theme=omni&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
