@@ -1,7 +1,6 @@
 ###  **Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">**
 
 - ⚡ Second year Software Engineering student ⚡
--  :rainbow: Currently looking for placement :rainbow:
 -  :avocado: Very interested in Web Development :avocado:
 - ✨ One of my recent projects <a href="https://github.com/FratiaXd/cryptocurrency_trading_simulator">Cryptocurrency trading simulator</a> ✨
 - 📫 <a href="https://www.linkedin.com/in/katrina-petreikyte/">My LinkedIn</a> 📫
