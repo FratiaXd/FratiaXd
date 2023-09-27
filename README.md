@@ -1,6 +1,6 @@
 ###  **Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">**
 
-- ⚡ Second year Software Engineering student ⚡
+- ⚡ Final year Software Engineering student ⚡
 -  :avocado: Very interested in Web Development :avocado:
 - ✨ One of my recent projects <a href="https://github.com/FratiaXd/ecommerce-website">Ecommerce website</a> ✨
 - 📫 <a href="https://www.linkedin.com/in/katrina-petreikyte/">My LinkedIn</a> 📫
