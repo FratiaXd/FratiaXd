@@ -2,7 +2,7 @@
 
 - ⚡ Final year Software Engineering student ⚡
 -  :avocado: Very interested in Web Development :avocado:
-- ✨ One of my recent projects <a href="https://github.com/FratiaXd/ecommerce-website">Ecommerce website</a> ✨
+- ✨ One of my recent projects <a href="https://github.com/FratiaXd/TheOrdinaryWebsite">The Ordinary website</a> ✨
 - 📫 <a href="https://www.linkedin.com/in/katrina-petreikyte/">My LinkedIn</a> 📫
 - :clapper: Huge movie fan :clapper:
 
